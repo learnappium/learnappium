@@ -1,0 +1,11 @@
+ip=127.0.0.1
+port=4723
+devicename=Android
+platformname=Android
+unlocker_activity=unlock
+unlocker_package=io.appium.unlock
+filepath=F:\\Appium_allFiles\\Softwares\\com-timesgroup-magicbricks16--Oktober-2015v-6-2-5.apk
+deviceid=android
+platformversion=6.0
+app_activity=com.till.magicbricks.activities.SplashActivity
+app_package=com.timesgroup.magicbricks

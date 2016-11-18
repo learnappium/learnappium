@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="RegistrationSuite" >
+<listners>
+<listner class-name="org.uncommons.reportng.HTMLReporter"/>
+<listner class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+</listners>
+<test name="RegistrationTest">
+<classes>
+<class name="com.mb.MagicBrick.RegistrationTest"/>
+</classes></test>
+</suite>
